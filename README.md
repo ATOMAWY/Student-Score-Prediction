@@ -67,8 +67,4 @@ The model achieves strong performance in predicting exam scores, with visualizat
 - Residual plots
 - Feature importance rankings
 
-## 📝 License
-This project is open source and available under the MIT License.
 
-## 👤 Author
-Your Name - [GitHub Profile](https://github.com/YOUR_USERNAME)
